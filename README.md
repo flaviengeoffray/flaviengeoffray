@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on my research for end-of-study internships in AI
 - 🤔 I’m looking for help finding an end-of-study internship in AI
 - 💬 Ask me about anything... But I am very interested in an end-of-study internship in AI
-- 📫 How to reach me: flavien.geoffray@gmail.com, flavien.geoffray@epita.fr, my linkedin, please contact me for an end-of-study internship in AI
+- 📫 How to reach me: flavien.geoffray@gmail.com, flavien.geoffray@epita.fr, [LinkedIn](https://www.linkedin.com/in/flavien-geoffray/), please contact me for an end-of-study internship in AI
 - ⚡ Fun fact: I am also looking for an end-of-study internship in Data Engineering or Computer Vision.
 
 --- 
