@@ -20,6 +20,7 @@ I thrive when working on **ambitious projects** that carry meaning and have a **
 
 ---
 
-Please feel free to explore my [website](https://flaviengeoffray.com), you will find more feedbacks on my academic journey and my projects.
+**Please feel free to explore my [website](https://flaviengeoffray.com), you will find more feedbacks on my academic journey and my projects.**
+</br>
 </br>
 And you can contact me via [LinkedIn](https://www.linkedin.com/in/flavien-geoffray/) or at flavien.geoffray@gmail.com.
