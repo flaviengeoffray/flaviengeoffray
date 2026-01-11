@@ -1,4 +1,4 @@
-## Hello there 👋 (Obiwan Kenobi reference)
+## Hi 👋
 
 - 🔭 I’m currently working on getting an end-of-study internship in AI
 - 🌱 I’m currently learning on how to get an end-of-study internship in AI
@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help finding an end-of-study internship in AI
 - 💬 Ask me about anything... But I am very interested in an end-of-study internship in AI
 - 📫 How to reach me: flavien.geoffray@gmail.com, flavien.geoffray@epita.fr, [LinkedIn](https://www.linkedin.com/in/flavien-geoffray/), please contact me for an end-of-study internship in AI
-- ⚡ Fun fact: I am also looking for an end-of-study internship in Data Engineering or Computer Vision.
+- ⚡ Fun fact: I am also looking for an end-of-study internship in AI Research Data Engineering, Computer Vision.
 
 --- 
 
